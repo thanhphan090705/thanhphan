@@ -1,0 +1,5 @@
+POkemon Ruby 2012 Version v2.0 Log
+-New Battle Background.
+-New move animations+6 New Moves.
+-Fixed all bug that I found.
+
